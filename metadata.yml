@@ -1,0 +1,13 @@
+---
+:id: 39048319
+:submitters:
+- :name: Binghong Yu
+  :email: biy011@ucsd.edu
+- :name: Xinyue Yu
+  :email: xiy210@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-06-14 06:51:48.311434000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-06-13 23:51:48.311434000 Z
+:status: failed
